@@ -1,0 +1,18 @@
+/************************************************************
+* Description: Primary Style Sheet for Module Assignment
+* Author: Aileen Cortes
+************************************************************/
+
+body{
+    background-color: aliceblue;
+}
+/* Background Color is White*/
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+/*Header is centered*/
+li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/*list font is changed to match the rest*/
